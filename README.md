@@ -108,10 +108,6 @@ To trade other instruments, modify the following in the code:
    - Verify entry and stop loss prices are correctly entered
    - Ensure positive risk percentage (1-100%)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Disclaimer
 
 This software is for educational purposes only. The authors are not responsible for any trading losses incurred while using this application. Always verify calculations before executing trades.
