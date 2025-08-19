@@ -9,7 +9,7 @@ This is a professional position size calculator application designed specificall
 - **Precise position size calculation** based on risk parameters
 - **Advanced TP calculation** with customizable risk-reward ratios
 - **Broker constraints validation** (min/max lots, step size)
-- **Professional dark-themed GUI** with intuitive controls
+- **Professional dark-themed GUI** with intuitive controls (by DeepSeek AI)
 - **Detailed trade report** with all calculation parameters
 - **Symbol auto-activation** for MT5
 - **Real-time risk analysis** in USD
